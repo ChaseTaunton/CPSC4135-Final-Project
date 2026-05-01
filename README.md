@@ -25,6 +25,7 @@ The framework supports value comparisons, boolean checks, error checking, clearl
   - `to_raise`
   - `to_match`
 - PASS / FAIL output for each assertion
+- Ability to run specific tests or entire suites
 - Summary report showing passed and failed tests for test suites
 
 ---
